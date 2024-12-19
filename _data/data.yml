@@ -22,7 +22,7 @@ sidebar:
     xing: 
     github: htetmyataung234
     telegram: daedalus_tempest # add your nickname without '@' sign
-    gitlab:
+    gitlab: htetmyataung234
     bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -57,22 +57,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        I am a Data Scientist with a strong background in machine learning, data analysis, and data visualization. 
+        I am passionate about solving complex problems and seeing the impact of my work on real-world applications. 
+        I am proficient in Python, R, and SQL and have experience working with a variety of machine learning algorithms and data visualization tools. 
+        I am looking for opportunities to apply my skills in a dynamic and collaborative environment.
 education:
     title: Education
     info:
       - degree: BSc in Computer Science
         university: University of Yangon
-        time: 2017 - 2024
+        time: 2018 - 2024
         details: |
           Studied Computer Science At University of Yangon from 2017 to 2024.
-          Long study year is the result of unstable conditions of Burma.
-              - Worked as an assistant teacher
+            - Achieved 85% accuracay in forecasting weather of yangon region.
+            - Worked as a assistant tutor for 2 years.
+            - Developed a web application for the file storage system of documentation.
 
 experiences:
     title: Experiences
@@ -234,6 +233,3 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
